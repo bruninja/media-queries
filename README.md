@@ -28,7 +28,7 @@ $ npm install media-queries --save
 
 ## Notes
 
-Values are exported as [media queries ranges][spec], using `@custom-media`. That's a future specification so you'll probably need a `/(pre|post)\w?\-?processor/i`. Both [cssnext][cssnext] and [myth][myth] are really great options.
+Values are exported as [media queries ranges][spec], using `@custom-media`. That's a future specification so you'll probably need a `/p(re|ost)\s?\-?processor/i`. Both [cssnext][cssnext] and [myth][myth] are really great options.
 
 ## License
 
