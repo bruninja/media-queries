@@ -1,6 +1,6 @@
 {
   "name": "media-queries",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CSS media queries based on Zurb's Foundation breakpoints",
   "main": "index.css",
   "style": "index.css",
