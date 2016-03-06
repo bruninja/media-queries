@@ -4,7 +4,7 @@
 [myth]: http://www.myth.io
 [spec]: https://drafts.csswg.org/mediaqueries/#mq-ranges
 
-# media-queries
+# media-queries [![Build Status](https://semaphoreci.com/api/v1/rafaelrinaldi/media-queries/branches/master/badge.svg)](https://semaphoreci.com/rafaelrinaldi/media-queries)
 
 > CSS media queries based on [Zurb's Foundation][zurb-foundation] breakpoints
 
