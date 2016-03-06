@@ -1,0 +1,36 @@
+{
+  "name": "media-queries",
+  "version": "1.0.0",
+  "description": "CSS media queries based on Zurb's Foundation breakpoints",
+  "main": "index.css",
+  "style": "index.css",
+  "files": [
+    "LICENSE",
+    "index.css"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rafaelrinaldi/media-queries.git"
+  },
+  "homepage": "https://github.com/rafaelrinaldi/media-queries",
+  "author": {
+    "name": "Rafael Rinaldi",
+    "email": "rafael@rinaldi.io",
+    "url": "rinaldi.io"
+  },
+  "keywords": [
+    "breakpoints",
+    "css",
+    "defaults",
+    "media-queries",
+    "style"
+  ],
+  "scripts": {
+    "lint": "stylelint index.css",
+    "test": "npm run lint"
+  },
+  "devDependencies": {
+    "stylelint": "^4.4.0"
+  }
+}
