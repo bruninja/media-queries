@@ -26,6 +26,20 @@ $ npm install media-queries --save
 }
 ```
 
+## Values
+
+| Alias | Value |
+|--- |--- |
+| `small-up` | `0` |
+| `small-only` | `0` → `39.9375em` |
+| `medium-up` | `40em` |
+| `medium-only` | `40em` → `63.9375em`
+| `large-up` | `64em` |
+| `large-only` | `64em` → `74.9375em` |
+| `xlarge-up` | `75em` |
+| `xlarge-only` | `75em` → `89.9375em` |
+| `xxlarge-up` | `90em` |
+
 ## Notes
 
 Values are exported as [media queries ranges][spec], using `@custom-media`. That's a future specification so you'll probably need a `/p(re|ost)\s?\-?processor/i`. Both [cssnext][cssnext] and [myth][myth] are really great options.
