@@ -23,7 +23,6 @@
 @custom-media --xlarge-only screen and (min-width: 75em) and (max-width: 89.9375em);
 
 /* Super large screens */
-@custom-media --xxlarge-up screen and (min-width: 75em);
-@custom-media --xxlarge-only screen and (min-width: 75em) and (max-width: 89.9375em);
+@custom-media --xxlarge-up screen and (min-width: 90em);
 
 /* stylelint-enable */
